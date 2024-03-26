@@ -1,0 +1,14 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "Spring Boot-ReviewmsApplication<reviewms>",
+         "request": "launch",
+         "cwd": "${workspaceFolder}",
+         "mainClass": "com.austin.reviewms.ReviewmsApplication",
+         "projectName": "reviewms",
+         "args": "",
+         "envFile": "${workspaceFolder}/.env"
+      }
+   ]
+}
